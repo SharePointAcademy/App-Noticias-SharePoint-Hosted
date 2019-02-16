@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Content">
+    <File Path="Content\App.css" Url="Content/App.css" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap-grid.css" Url="Content/bootstrap-grid.css" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap-grid.css.map" Url="Content/bootstrap-grid.css.map" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap-grid.min.css" Url="Content/bootstrap-grid.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap-grid.min.css.map" Url="Content/bootstrap-grid.min.css.map" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap-reboot.css" Url="Content/bootstrap-reboot.css" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap-reboot.css.map" Url="Content/bootstrap-reboot.css.map" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap-reboot.min.css" Url="Content/bootstrap-reboot.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap-reboot.min.css.map" Url="Content/bootstrap-reboot.min.css.map" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap.css" Url="Content/bootstrap.css" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap.css.map" Url="Content/bootstrap.css.map" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap.min.css" Url="Content/bootstrap.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap.min.css.map" Url="Content/bootstrap.min.css.map" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

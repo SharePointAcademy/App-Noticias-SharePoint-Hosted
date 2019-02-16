@@ -1,0 +1,17 @@
+﻿/* Place custom styles below */
+.noticia img {
+    width: 200px;
+}
+
+.link {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.mr5 {
+    margin-right: 5px;
+}
+
+.mr10 {
+    margin-right: 10px;
+}

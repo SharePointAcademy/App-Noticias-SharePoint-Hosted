@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.map" Url="Scripts/jquery-1.9.1.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.js" Url="Scripts/jquery-1.9.1.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.js" Url="Scripts/jquery-1.9.1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.intellisense.js" Url="Scripts/jquery-1.9.1.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.bundle.js" Url="Scripts/bootstrap.bundle.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.bundle.js.map" Url="Scripts/bootstrap.bundle.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.bundle.min.js" Url="Scripts/bootstrap.bundle.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.bundle.min.js.map" Url="Scripts/bootstrap.bundle.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.js" Url="Scripts/bootstrap.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.js.map" Url="Scripts/bootstrap.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.min.js" Url="Scripts/bootstrap.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.min.js.map" Url="Scripts/bootstrap.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\Noticias\Create.js" Url="Scripts/Noticias/Create.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Noticias\Delete.js" Url="Scripts/Noticias/Delete.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Noticias\Edit.js" Url="Scripts/Noticias/Edit.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Noticias\List.js" Url="Scripts/Noticias/List.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Noticias\NoticiasController.js" Url="Scripts/Noticias/NoticiasController.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Noticias\Upload.js" Url="Scripts/Noticias/Upload.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Util.js" Url="Scripts/Util.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

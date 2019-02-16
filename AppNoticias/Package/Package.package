@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="efd1bf86-a04d-4be8-9a4d-3d86855ef7a0" 
+        solutionId="efd1bf86-a04d-4be8-9a4d-3d86855ef7a0" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="AppNoticias"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="77f8a6f9-26c7-4eeb-b136-fe8bc4c79d96" />
+  </features>
+</package>
