@@ -4,5 +4,6 @@
     <File Path="Pages\Noticias\Default.aspx" Url="Pages/Noticias/Default.aspx" ReplaceContent="TRUE" />
     <File Path="Pages\Noticias\Create.aspx" Url="Pages/Noticias/Create.aspx" ReplaceContent="TRUE" />
     <File Path="Pages\Noticias\Edit.aspx" Url="Pages/Noticias/Edit.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\ListarNoticias.aspx" Url="Pages/ListarNoticias.aspx" ReplaceContent="TRUE" />
   </Module>
 </Elements>

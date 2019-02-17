@@ -2,7 +2,10 @@
 .noticia img {
     width: 200px;
 }
-
+.listNoticia img {
+    width: 250px;
+    height: 120px;
+}
 .link {
     margin-left: 10px;
     margin-right: 10px;

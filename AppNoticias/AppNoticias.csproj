@@ -58,6 +58,7 @@
     <Content Include="Lists\Noticias\Elements.xml" />
     <Content Include="Lists\Noticias\NoticiasInstance\Elements.xml" />
     <Content Include="Lists\Noticias\Schema.xml" />
+    <Content Include="Pages\ListarNoticias.aspx" />
     <Content Include="Pages\Noticias\Edit.aspx" />
     <Content Include="Pages\Noticias\Create.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
@@ -74,6 +75,9 @@
     <Content Include="Scripts\Noticias\NoticiasController.js" />
     <Content Include="Scripts\Noticias\Upload.js" />
     <Content Include="Scripts\Util.js" />
+    <Content Include="WebParts\wpListarNoticias\Elements.xml">
+      <OpcRelationship>feature-elementmanifest</OpcRelationship>
+    </Content>
     <None Include="Content\bootstrap-grid.css.map" />
     <None Include="Content\bootstrap-grid.min.css.map" />
     <None Include="Content\bootstrap-reboot.css.map" />
@@ -98,6 +102,9 @@
     </None>
     <Content Include="Pages\Elements.xml" />
     <Content Include="Pages\Noticias\Default.aspx" />
+    <None Include="WebParts\wpListarNoticias\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{27d18435-2c8b-437a-ad55-06f4cc4c5d57}</SharePointProjectItemId>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\bootstrap.bundle.js.map" />

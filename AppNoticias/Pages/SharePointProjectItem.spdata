@@ -5,5 +5,6 @@
     <ProjectItemFile Source="Noticias\Default.aspx" Target="Pages\Noticias\" Type="ElementFile" />
     <ProjectItemFile Source="Noticias\Create.aspx" Target="Pages\Noticias\" Type="ElementFile" />
     <ProjectItemFile Source="Noticias\Edit.aspx" Target="Pages\Noticias\" Type="ElementFile" />
+    <ProjectItemFile Source="ListarNoticias.aspx" Target="Pages\" Type="ElementFile" />
   </Files>
 </ProjectItem>
